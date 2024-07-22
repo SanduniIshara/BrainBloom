@@ -68,3 +68,17 @@
     padding: 20px;
   }
 }
+
+/* ContactUs.css */
+
+.message.sending {
+  color: rgb(91, 168, 222);
+}
+
+.message.success {
+  color: rgb(9, 222, 9);
+}
+
+.message.error {
+  color: red;
+}
